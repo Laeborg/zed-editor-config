@@ -17,7 +17,7 @@ git clone https://github.com/zed-industries/zed.git
 ```
 cargo run --release
 ```
-5. Run the zed.exe from `target/release/` directory from within the cloned repository.
+5. Run the zed.exe from `target/release/` directory from within the cloned repository. I sugest to right click and select `Send to > Desktop (create shortcut)` and then move this shortcut into `C:\ProgramData\Microsoft\Windows\Start Menu\Programs` for easy access through the Windows Start Menu.
 
 ## Configuration
 
