@@ -39,13 +39,13 @@
   // Panels
   "project_panel": {
     // https://zed.dev/docs/configuring-zed#project-panel
-    "default_width": 100,
+    "default_width": 225,
     "button": true,
     "dock": "left",
     "git_status": true
   },
   "notification_panel": {
-    "default_width": 100,
+    "default_width": 200,
     "dock": "right"
   },
   "assistant": {
