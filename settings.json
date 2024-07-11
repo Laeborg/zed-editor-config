@@ -7,10 +7,10 @@
 // custom settings, run the `open default settings` command
 // from the command palette or from `Zed` application menu.
 {
-  // Allow Zed Industries to collect anonymous usage data
+  // Don't allow Zed Industries to collect anonymous usage data
   "telemetry": {
-    "diagnostics": true,
-    "metrics": true
+    "diagnostics": false,
+    "metrics": false
   },
 
   // Tweaks

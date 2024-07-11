@@ -25,6 +25,7 @@ After installation open the App Data directory: `C:\Users\<UserName>\AppData\Roa
 git clone https://github.com/Laeborg/zed-editor-config .
 ```
 
-This will configure `themes`, `keymaps` and `settings` as defined here.
+This will configure `themes`, `keymap` and `settings` as defined in this repository.
 
 ## Extensions
+Extensions are stored
