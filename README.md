@@ -4,7 +4,7 @@ Running on Windows 11 with WSL2.
 
 ## Installation
 For installation on Windows you currently need to build from source manually:
-1. Install Rust on 64 bit Windows: https://static.rust-lang.org/rustup/dist/x86_64-pc-windows-msvc/rustup-init.exe
+1. Install Rust on a x86_64 Microsoft Windows: https://static.rust-lang.org/rustup/dist/x86_64-pc-windows-msvc/rustup-init.exe
 2. Install the Rust WASM toolchain:
 ```
 rustup target add wasm32-wasi
