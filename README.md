@@ -1,5 +1,5 @@
 # Zed Editor
-My personal configuration for [Zed editor](https://github.com/zed-industries/zed).  
+My personal configuration for [Zed Editor](https://github.com/zed-industries/zed).  
 Running on Windows 11 with WSL2.
 
 ## Installation
@@ -17,7 +17,7 @@ git clone https://github.com/zed-industries/zed.git
 ```
 cargo run --release
 ```
-5. Run the zed.exe from `target/release/` directory from within the cloned repository. I sugest to right click and select `Send to > Desktop (create shortcut)` and then move this shortcut into `C:\ProgramData\Microsoft\Windows\Start Menu\Programs` for easy access through the Windows Start Menu.
+5. Run the zed.exe from `target/release/` directory from within the cloned repository. I suggest to right-click and select `Send to > Desktop (create shortcut)` and then move this shortcut into `C:\ProgramData\Microsoft\Windows\Start Menu\Programs` for easy access through the Windows Start Menu.
 
 ## Configuration
 After installation open the App Data directory: `C:\Users\<UserName>\AppData\Roaming\Zed` and clone this repository using Git:
