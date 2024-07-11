@@ -1,0 +1,63 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run the `open default settings` command
+// from the command palette or from `Zed` application menu.
+{
+  "ui_font_size": 14,
+  "buffer_font_size": 14,
+  "theme": {
+    "mode": "dark",
+    "light": "One Light",
+    "dark": "New Darcula"
+  },
+  "assistant": {
+    "version": "1",
+    "provider": {
+      "default_model": "claude-3-5-sonnet-20240620",
+      "name": "anthropic"
+    }
+  },
+  "tabs": {
+    "show_icons": true,
+    "git_status": true
+  },
+  "terminal": {
+    "shell": {
+      "with_arguments": {
+        "program": "C:\\Windows\\System32\\wsl.exe",
+        "args": ["-d", "Debian", "bash", "--login"]
+      }
+    },
+    "copy_on_select": true
+  },
+  "experimental.theme_overrides": {
+    "background": "#2b2b2d",
+    "terminal.background": "#2b2b2d",
+    "terminal.foreground": "#F8F8F2",
+    "terminal.ansi.black": "#21222C",
+    "terminal.ansi.blue": "#BD93F9",
+    "terminal.ansi.cyan": "#8BE9FD",
+    "terminal.ansi.green": "#50FA7B",
+    "terminal.ansi.purple": "#FF79C6",
+    "terminal.ansi.red": "#FF5555",
+    "terminal.ansi.white": "#F8F8F2",
+    "terminal.ansi.yellow": "#F1FA8C",
+    "terminal.ansi.brightBlack": "#6272A4",
+    "terminal.ansi.brightBlue": "#D6ACFF",
+    "terminal.ansi.brightCyan": "#A4FFFF",
+    "terminal.ansi.brightGreen": "#69FF94",
+    "terminal.ansi.brightPurple": "#FF92DF",
+    "terminal.ansi.brightRed": "#FF6E6E",
+    "terminal.ansi.brightWhite": "#FFFFFF",
+    "terminal.ansi.brightYellow": "#FFFFA5"
+  },
+  "project_panel": {
+    "button": true,
+    "dock": "left",
+    "git_status": true
+  }
+}
