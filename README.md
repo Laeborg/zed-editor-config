@@ -31,8 +31,8 @@ This will configure `themes`, `keymap` and `settings` as defined in this reposit
 Extensions are stored in `C:\Users\<UserName>\AppData\Local\Zed\extensions`.  
 Installation is handled manually through the Extensions module.  
 
-| Extension Name | Version | Github |
-| -------------- | ------- | ------ |
+| Extension Name | Version | Repository |
+| -------------- | ------- | ---------- |
 | Dockerfile     | 0.0.4   | https://github.com/d1y/dockerfile.zed |
 | HTML           | 0.1.1   | https://github.com/zed-industries/zed/tree/main/extensions/html |
 | SQL            | 1.0.0   | https://github.com/evrensen467/zed-sql |
