@@ -60,5 +60,6 @@
     "dock": "left",
     "git_status": true
   },
-  "remove_trailing_whitespace_on_save": false
+  "remove_trailing_whitespace_on_save": false,
+  "ensure_final_newline_on_save": true
 }
