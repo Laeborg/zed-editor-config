@@ -26,12 +26,27 @@
     "dark": "My Dracula"
   },
 
+  // Features
+  "git": {
+    // https://zed.dev/docs/configuring-zed#git
+    "git_gutter": "tracked_files",
+    "inline_blame": {
+      "enabled": true,
+      "position": "right"
+    }
+  },
+
   // Panels
   "project_panel": {
     // https://zed.dev/docs/configuring-zed#project-panel
+    "default_width": 100,
     "button": true,
     "dock": "left",
     "git_status": true
+  },
+  "notification_panel": {
+    "default_width": 100,
+    "dock": "right"
   },
   "assistant": {
     // https://zed.dev/docs/assistant-panel
@@ -54,6 +69,7 @@
   "tabs": {
     // https://zed.dev/docs/configuring-zed#editor-tabs
     "show_icons": true,
-    "git_status": true
+    "git_status": true,
+    "close_position": "right"
   }
 }
