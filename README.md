@@ -1,3 +1,3 @@
-# Zed editor
-My personal configuration for (zed-industries/zed)[Zed editor].
+# Zed Editor
+My personal configuration for [https://github.com/zed-industries/zed](Zed editor).
 Running on Windows 11 with WSL2.
