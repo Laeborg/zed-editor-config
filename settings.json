@@ -59,5 +59,6 @@
     "button": true,
     "dock": "left",
     "git_status": true
-  }
+  },
+  "remove_trailing_whitespace_on_save": false
 }
